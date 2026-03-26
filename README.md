@@ -108,13 +108,13 @@ Enquanto a tensão fornece a pressão necessária e a corrente representa o flux
 . Sem tensão, não há pressão para os elétrons se moverem; sem corrente, não há fluxo de energia; e sem a combinação de ambos, não há potência para realizar trabalho
 
 ### Mini glossário
-Normas e regras para o trabalho de eletricista
-Ferramentas essenciais para elétrica
-Distribuição de quadros de energia 
-Potência aparente e potência ativa
-Tipos de carga
-Normas para carcaça
-Frequência
+-Normas e regras para o trabalho de eletricista
+-Ferramentas essenciais para elétrica
+-Distribuição de quadros de energia 
+-Potência aparente e potência ativa
+-Tipos de carga
+-Normas para carcaça
+-Frequência
 
 
 ### 🎬 Fontes em vídeo
